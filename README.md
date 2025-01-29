@@ -1,1 +1,2 @@
-# praca-domowa-kszta-ty
+# praca-domowa-kształty:
+http://localhost:5173/
